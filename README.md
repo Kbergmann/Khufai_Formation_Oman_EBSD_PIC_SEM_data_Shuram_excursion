@@ -1,6 +1,6 @@
 # Khufai_Formation_Oman_EBSD_PIC_SEM_data_Shuram_excursion
 
-This repository contains comprehensive analytical data supporting the study of dolomite fabrics in ooids formed during the onset of the Shuram excursion from the uppermost Khufai Formation, Huqf region, Oman. Two additional dolomite samples were compared from the Buah and Birba Formations.  Samples were prepared as thin sections (0.25 μm thickness) and epoxy-mounted blocks. PIC samples polished to 50 nm with Al₂O₃, EBSD, SEM-EDS, and EPMA samples were polished with colloidal silica and carbon-coated prior to analysis. Acid etching was completed on polished thin sections with 10% HCl for 30 seconds prior to SEM analysis. XRD analysis was completed with small powder quantities with a zero-background silicon chip.
+This repository contains analytical data supporting the study of dolomite fabrics in ooids formed during the onset of the Shuram excursion from the uppermost Khufai Formation, Huqf region, Oman. Two additional dolomite samples were compared from the Buah and Birba Formations. Samples were prepared as thin sections (0.25 μm thickness) and epoxy-mounted blocks. EBSD, SEM-EDS, and EPMA samples were polished with colloidal silica and carbon-coated prior to analysis, PIC samples were polished to 50 nm with Al₂O₃. Acid etching was completed on polished thin sections with 10% HCl for 30 seconds prior to SEM analysis. XRD analysis was completed with small powder quantities with a zero-background silicon chip.
 
 Repository Structure
 
