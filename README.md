@@ -1,6 +1,6 @@
 # Khufai_Formation_Oman_EBSD_PIC_SEM_data_Shuram_excursion
 
-This repository contains analytical data supporting the study of dolomite fabrics in ooids formed during the onset of the Shuram excursion from the uppermost Khufai Formation, Huqf region, Oman. Two additional dolomite samples were compared from the Buah and Birba Formations. Samples were prepared as thin sections (0.25 μm thickness) and epoxy-mounted blocks. EBSD, SEM-EDS, and EPMA samples were polished with colloidal silica and carbon-coated prior to analysis, PIC samples were polished to 50 nm with Al₂O₃. Acid etching was completed on polished thin sections with 10% HCl for 30 seconds prior to SEM analysis. XRD analysis was completed with small powder quantities with a zero-background silicon chip.
+This repository contains analytical data on dolomite fabrics in ooids formed during the onset of the Shuram excursion from the uppermost Khufai Formation in the Huqf region, Oman. Two additional dolomite samples were compared from the Buah and Birba Formations. Samples were prepared as thin sections (0.25 μm thickness) and epoxy-mounted blocks. EBSD, SEM-EDS, and EPMA samples were polished with colloidal silica and carbon-coated prior to analysis, PIC samples were polished to 50 nm with Al₂O₃ and platinum-coated before analysis. Acid etching was completed on polished thin sections with 10% HCl for 30 seconds before SEM analysis. XRD analysis was completed with small powder quantities with a zero-background silicon sample holder.
 
 Repository Structure
 
@@ -43,7 +43,9 @@ Large-scale composite microscopy images: Complete thin-section panoramic images 
 
 data/UV_Fluorescence/
 
-Ultraviolet fluorescence microscopy images: UV-induced fluorescence images taken on the AxioImager M2 revealing organic matter distribution, cement generations, and diagenetic features. Helps distinguish primary depositional fabrics from secondary alteration.
+Ultraviolet fluorescence microscopy images: UV-induced fluorescence images taken on the AxioImager M2 revealing organic matter distribution, cement generations, and diagenetic features. UV fluorescence was
+examined using three filters optimized for the following excitation and emission wavelengths: 430 nm excitation and 530 nm emission, 488 nm excitation and 519 nm emission, and 550 nm excitation and 605 nm emission.
+These filters were used to distinguish differences in autofluorescence between carbonate phases and detrital minerals.
 
 data/Field_photos/
 
