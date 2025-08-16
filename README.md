@@ -60,7 +60,7 @@ data/XRD/
 X-ray Diffraction patterns: Powder diffraction data from PANalytical X'Pert Pro (Cu radiation, 45 kV, 40 mA). Scanned 5-70° 2θ with 0.008° step size. Includes dolomite ordering calculations from (015)/(110) peak intensity ratios and phase identification.
 
 Citation
-Wilcots, J., Bergmann, K.B., Gilbert, P.U.P.A., Cross, A.J., 2025. Khufai Formation Oman EBSD PIC SEM Data - Shuram Excursion. Zenodo. https://doi.org/10.5281/zenodo.16415784
+Wilcots, J., Bergmann, K.B., Gilbert, P.U.P.A., Cross, A.J., 2025. Data Repository associated with: Nanoscale crystal fabric preserved in dolomite ooids at the onset of the Ediacaran Shuram excursion. Zenodo. 
 
 References
 Bachmann, F., Hielscher, R., & Schaeben, H. (2010). Texture analysis with MTEX--free and open source software toolbox. Solid State Phenomena, 160, 63-68.
