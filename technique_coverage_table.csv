@@ -1,0 +1,14 @@
+﻿Technique,Number of Samples,Number of Regions,Number of Analyses,Notes
+Field Photos,39 images,4 field sites,39 images,"Mukhaibah Dome East, Mukhaibah Dome 6, Khufai Dome West"
+Thin Section Microscopy,6 slides (all),69 images,-,6 sections total (plane polarized & cross-polarized)
+Extinction Movies,"3 (MD6_258.6, SB1_CON, SB1_ONC)",4 regions,4 movies,cross polarized light with stage rotation clockwise
+UV Microscopy,1 slide (MD6_258.6),6 images,-,430 nm excitation
+Stitched Photomicrograph,1 (MD6_258.6),1 image (full section),-,5X magnification entire section
+SEM BSE of unetched fabric,"5 (MD6_258.6, SB1_CON, SB1_ONC, WS_7_7, CC_5_5)",37 images,-,"MD6_258.6: 21 images, SB1_CON: 1 image, SB1_ONC: 9 images, WS_7_7: 4 images, CC_5_5: 2 images "
+SEM BSE of etched fabric,"5 (MD6_258.6, SB1_CON, SB1_ONC, WS_7_7, CC_5_5",34 images,-,"MD6_258.6: 13 images, SB1_CON: 5 images, SB1_ONC: 9 images, WS_7_7: 3 images, CC_5_5: 4 images "
+EPMA spot analyses,1 (MD6_258.6),2 regions,"51 spot analyses, 5 elements","37 ooid spots + 14 sediment spots, Ca, Mg, Sr, Fe, Mn"
+EPMA elemental maps,1 (MD6_258.6),2 regions,5 elements,"Ca, Mg, Fe, Mn, Si"
+EDS elemental maps,"3 (MD6_258.6, SB1_CON, SB1_ONC)",3 regions overlapping with EBSD maps,all elements,"Coupled with EBSD (MD6_258.6, SB1_CON, SB1_ONC only)"
+PIC,"3 (MD6_258.6, SB1_CON, SB1_ONC)",4 regions,4 maps,1 ooid quarter (MD6) + 2 sub-spherulite regions (SB1_CON) + 1 cement region (SB1_ONC)
+EBSD,"4 (MD6_258.6, SB1_ONC, SB1_CON, WS_7_7)",7 regions,8 maps,"2 ooid regions (MD6_258.6) + 1 spherulite (SB1_CON), 1 cement region (SB1_ONC), 4 calcite ooids (WS_7_7)"
+XRD,"47 samples, 3 standards",--,50 spectra,"5 oolite spectra from samples at Mukhaibah Dome and Khufai Dome (including MD6_258.6), SB1_CON, SB1_ONC,  9 other samples from the onset of the excursion, 3 dolomite standards"

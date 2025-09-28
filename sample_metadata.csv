@@ -1,0 +1,7 @@
+﻿Sample ID,Mineralogy,Location,Country,Age,Latitude,Longitude,Composite Height,Lithology,d13C,d18O,Formation,Notes
+MD6_258.6,dolomite,Mukhaibah Dome,Oman,Ediacaran,19.98114,57.71297,343.2,Oolite,-2.62,-6.62,Khufai,sample
+SB1_CON,dolomite,"Sirab, Khufai Dome",Oman,Ediacaran,20.199734,57.739245,1105.4,Conical stromatolite,7.59,-2.34,Buah,Comparison sample explored in detail in the main text
+SB1_ONC,dolomite,"Sirab, Khufai Dome",Oman,Ediacaran,20.185878,57.756415,1204.8,Tepee-pisolite complex,4.96,1.23,Birba,Comparison sample explored in detail in the main text
+WS_7_7,calcite,Khufai Dome,Oman,Ediacaran,20.107298,57.600929,491,Oolite,-9.89,-8.48,Shuram,"Comparison radial calcite sample with data (EBSD, SEM etched and unetched images, thin section photomicrographs) shared in the supplemental materials"
+CC_5_5,calcite,Port-au-Port Penninsula,Newfoundland,Cambrian,48.525333,-58.858436,-,Oolite,-,-,"Cambell's Cove, Petit Jardin","Comparison radial calcite sample with partial dolomitization with data (SEM etched and unetched images, thin section photomicrographs) shared in the supplemental materials"
+FC_8,calcite,Port-au-Port Penninsula,Newfoundland,Cambrian,48.531193,-58.79182,-,Oolite,-,-,"Felix Cove, Petit Jardin","Comparison radial calcite sample with partial dolomitization with data (SEM etched and unetched images, thin section photomicrographs) shared in the supplemental materials"

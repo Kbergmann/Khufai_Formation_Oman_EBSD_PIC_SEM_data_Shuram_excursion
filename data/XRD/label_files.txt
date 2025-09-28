@@ -1,0 +1,18 @@
+MD6_258.6_ooid.xrdml,oolite,1B4792
+MDE2_1_7.xrdml,oolite location #2,4B94C4
+MDE_291_1.xrdml,oolite location #3,4B94C4
+MDE_291_5.xrdml,oolite location #4,4B94C4
+SB1_Conophyton.xrdml,spherulite,CB763D
+SB1_Pisolite.xrdml,pisolite,75174C
+MD6_259.5.xrdml,onset,98D8DC
+MD6_259.5_g2.xrdml,onset,98D8DC
+MDE2_0_4.xrdml,onset,98D8DC
+MDE2_1_0.xrdml,onset,98D8DC
+MDE_293.4_geo5.xrdml,onset,98D8DC
+MDE_292.5_geo5.xrdml,onset,98D8DC
+MDE_292_geo5.xrdml,onset,98D8DC
+KDW2_131.8A_g2.xrdml,onset,98D8DC
+KDE_293_5.xrdml,onset,98D8DC
+Dolomite_100.xrdml,dolomite standard,3D2B7C
+WhiteSaddleDolomite_std.xrdml,saddle dolomite standard,3D2B7C
+YellowSaddleDolomite_std.xrdml,saddle dolomite standard,3D2B7C

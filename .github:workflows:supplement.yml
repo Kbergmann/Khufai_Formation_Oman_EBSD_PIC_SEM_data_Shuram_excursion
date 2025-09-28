@@ -1,0 +1,16 @@
+name: build-supplement
+on: [push, workflow_dispatch]
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update && sudo apt-get install -y pandoc texlive-latex-recommended texlive-latex-extra
+      - run: pip install pyyaml
+      - run: python3 make_supplement.py --root data --pdf --title "Supplementary Figures"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: supplement-pdf
+          path: SUPPLEMENT.pdf
